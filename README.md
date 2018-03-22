@@ -2,7 +2,7 @@
 
 A collection of awesome blockchain articles. Good learning resources about blockchain. 干货集合，入门区块链技术看这里就够了（本文持续更新中...）
 
-### [入门科普](#intro)
+### 入门科普
 
 - [为了搞懂什么是区块链，我都快抑郁了](https://mp.weixin.qq.com/s/AG9D9GdkD8Dvfa6mvZsCYA)
 
@@ -37,14 +37,14 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [什么是加密经济学？ 初学者终极指南](https://mp.weixin.qq.com/s/ftFRNtzlhlnYKVsDvdQb7g)
 
 
-#### [揭秘比特币系列](#secret)
+#### 揭秘比特币系列
 
 - [揭秘比特币和区块链（一）：什么是区块链？](http://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486444&amp;idx=1&amp;sn=4d90f461b5ca0d0576a16b15ce10c189&source=41#wechat_redirect)
 - [揭秘比特币和区块链（二）：挖矿的本质是什么？](http://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486443&amp;idx=1&amp;sn=30359caeeec5fb522c68c1bd9aaee54b&source=41#wechat_redirect)
 - [揭秘比特币和区块链（三）：比特币的私钥、公钥与地址](http://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486442&amp;idx=1&amp;sn=010e9433a342d592b12aba491980992b&source=41#wechat_redirect)
 - [揭秘比特币和区块链（四）：比特币的交易](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486431&idx=1&sn=b44ac20769bf06e2eae03b7988777c26&chksm=96c9bdbfa1be34a9bb993724ddc27f500e3f5f3fe63d4e4747498b1d730b759e6095cabaed2f&scene=27#wechat_redirect)
 
-#### [程序猿入门必读](#ape)
+#### 程序猿入门必读
 
 - [人才稀缺的区块链，程序员转型入门必看这四项技能](https://mp.weixin.qq.com/s/FMTw5WgOpfNSdvTUzq8IMA)
 - [刚入门区块链的程序员应该看些什么？](https://mp.weixin.qq.com/s/13UNWOe0W7bYUs8Q7piEUA)
@@ -52,7 +52,7 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [如何在 5 分钟内读懂区块链的架构思维？](http://mp.weixin.qq.com/s/Gf7ux-4SU1LMN_28drDjxw)
 
 
-### [不想看文档，那就看看视频吧](#video)
+### 不想看文档，那就看看视频吧
 
 - [TC剧场：《信任重塑：比特币与区块链》第一集](https://mp.weixin.qq.com/s/Sf24To-WmnSYVJ8hzMljhQ) 一切的开始
 - [TC剧场：《信任重塑：比特币与区块链》第二集](https://mp.weixin.qq.com/s/cl5BkFPtsaw1C6aGVj51fg) 矿场与矿工 
@@ -61,7 +61,7 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [TC剧场：《信任重塑：比特币与区块链》第五集](https://mp.weixin.qq.com/s/DYLHvahnM_mfg8py9lxeUA) 以太坊
 - [TC剧场：《信任重塑：比特币与区块链》最终集](https://mp.weixin.qq.com/s/6RoyCedsxyOMRTJHBotKNA) 合作？还是革命？
 
-### [进阶攻略](#advanced)
+### 进阶攻略
 
 - [如何成为一名区块链工程师？ | 附学习资源](https://mp.weixin.qq.com/s/_UjgFkC_ins2svFPvduvhw)
 - [深入理解比特币交易的脚本](http://mp.weixin.qq.com/s/tbU9Pg0vQkA7JdKSgNyPAQ)
@@ -77,7 +77,7 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [区块链常用架构是什么？它和保险业又如何结合？](https://mp.weixin.qq.com/s/mKjEb6TFYzNWexVt9aXCxA)
 - [深度解析区块链架构、跨链和演进](https://mp.weixin.qq.com/s/UZzSUhyxsCGAX8K2A9aTcA)
 
-### [要学习区块链技术，自己动手写一个吧](#writeit)
+### 要学习区块链技术，自己动手写一个吧
 
 - [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) 
 
@@ -95,7 +95,7 @@ A collection of awesome blockchain articles. Good learning resources about block
 
 
 
-### [沉淀积累，是时候静下心来看看书了](#book)
+### 沉淀积累，是时候静下心来看看书了
 
 #### 比特币和以太坊核心技术文档看这里就够了
 
@@ -113,7 +113,7 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
 - [区块链开发指南](https://yuedu.baidu.com/ebook/dba5c99c8662caaedd3383c4bb4cf7ec4afeb619)
 
-### [从源码中学习](#code)
+### 从源码中学习
 
 - [比特币核心](https://github.com/bitcoin/bitcoin)
 - [以太坊钱包](https://github.com/ethereum/go-ethereum)
