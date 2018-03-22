@@ -2,20 +2,6 @@
 
 A collection of awesome blockchain articles. Good learning resources about blockchain. 干货集合，入门区块链技术看这里就够了（本文持续更新中...）
 
-<span id="intro">入门科普</span>
-
-<span id="secret">揭秘比特币系列</span>
-
-<span id="ape">程序猿入门必读</span>
-
-<span id="video">不想看文档，那就看看视频吧</span>
-
-<span id="writeit">要学习区块链技术，自己动手写一个吧</span>
-
-<span id="book">沉淀积累，是时候静下心来看看书了</span>
-
-<span id="code">从源码中学习</span>
-
 ### [入门科普](#intro)
 
 - [为了搞懂什么是区块链，我都快抑郁了](https://mp.weixin.qq.com/s/AG9D9GdkD8Dvfa6mvZsCYA)
