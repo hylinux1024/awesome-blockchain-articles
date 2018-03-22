@@ -36,7 +36,6 @@ A collection of awesome blockchain articles. Good learning resources about block
 
 - [什么是加密经济学？ 初学者终极指南](https://mp.weixin.qq.com/s/ftFRNtzlhlnYKVsDvdQb7g)
 
-  ​
 
 
 #### 揭秘比特币系列
@@ -112,7 +111,6 @@ A collection of awesome blockchain articles. Good learning resources about block
 
 - [来来来教你仅用15分钟在以太坊编写一个区块链Web应用](https://mp.weixin.qq.com/s/z8RhtH65w4ES7z5U7l1E9g)
 
-  ​
 
 
 ### 沉淀积累，是时候静下心来看看书了
@@ -133,6 +131,8 @@ A collection of awesome blockchain articles. Good learning resources about block
 
 [比特币wiki文档](https://zh-cn.bitcoin.it/wiki/%E9%A6%96%E9%A1%B5) 
 
+#### 读本书
+
 [看一本书精通比特币](http://zhibimo.com/books/wang-miao/mastering-bitcoin) 
 
 [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
@@ -144,4 +144,6 @@ A collection of awesome blockchain articles. Good learning resources about block
 [比特币核心](https://github.com/bitcoin/bitcoin)
 
 [以太坊钱包](https://github.com/ethereum/go-ethereum)
+
+[比特币网络源代码分析](book/比特币网络源代码分析.pdf)
 
