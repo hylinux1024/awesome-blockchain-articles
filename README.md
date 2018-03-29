@@ -1,6 +1,6 @@
 ## Awesome Blockchain Articles 
 
-A collection of awesome blockchain articles. Good learning resources about blockchain. 干货集合，入门区块链技术看这里就够了（本文持续更新中...）
+A collection of awesome blockchain articles. Good learning resources about blockchain. 干货集合，入门区块链技术看这里就够了（可加Q群 **680127749**，本文持续更新中...）
 
 
 
