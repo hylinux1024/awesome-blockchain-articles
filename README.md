@@ -2,6 +2,8 @@
 
 A collection of awesome blockchain articles. Good learning resources about blockchain. 干货集合，入门区块链技术看这里就够了（本文持续更新中...）
 
+
+
 ### 入门科普
 
 - [为了搞懂什么是区块链，我都快抑郁了](https://mp.weixin.qq.com/s/AG9D9GdkD8Dvfa6mvZsCYA)
@@ -76,6 +78,7 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [从拜占庭问题，谈区块链技术实现及政务应用](https://mp.weixin.qq.com/s/XUSiqTLuQHIcR6uQ4qjutg)
 - [区块链常用架构是什么？它和保险业又如何结合？](https://mp.weixin.qq.com/s/mKjEb6TFYzNWexVt9aXCxA)
 - [深度解析区块链架构、跨链和演进](https://mp.weixin.qq.com/s/UZzSUhyxsCGAX8K2A9aTcA)
+- [比特币、以太坊、Fabric…你知道它们的优缺点吗？不懂的进](http://mp.weixin.qq.com/s/u23PW3FGbnJ_3V3oq2Ickg)
 
 ### 要学习区块链技术，自己动手写一个吧
 
@@ -88,11 +91,15 @@ A collection of awesome blockchain articles. Good learning resources about block
 
 
 - [如何成为区块链开发者：速成课！](https://ethfans.org/posts/blockchain-developer-crash-course)
-
 - [区块链开发实战：如何从零打造一个去中心化应用](https://mp.weixin.qq.com/s/3HVo0UWPRQ_VUteP8WwrTg)
-
 - [来来来教你仅用15分钟在以太坊编写一个区块链Web应用](https://mp.weixin.qq.com/s/z8RhtH65w4ES7z5U7l1E9g)
+- [CryptoKitties源码详解：手把手教你撸出自己的区块链游戏](http://mp.weixin.qq.com/s/AdrYhQa-m3eh74t1TGwfMg)
 
+### 啧啧，说了这么多，区块链可以赚钱吗？
+
+- [程序员小白入行区块链的六种方式](http://mp.weixin.qq.com/s/ss2nqYrf8OQvDMJa_O8NYg)
+- [纯干货！以太坊DApp赚钱的六种方法](http://mp.weixin.qq.com/s/7HEf8x_tXQHo5292MG77yA)
+- [以太坊挖矿的利润究竟有多大？](http://mp.weixin.qq.com/s/GbaKPPXQJZOowzHP0BPrFg)
 
 
 ### 沉淀积累，是时候静下心来看看书了
@@ -118,4 +125,9 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [比特币核心](https://github.com/bitcoin/bitcoin)
 - [以太坊钱包](https://github.com/ethereum/go-ethereum)
 - [比特币网络源代码分析](book/比特币网络源代码分析.pdf)
+
+
+### 技术无眠群，一起吹吹水
+
+![技术无眠群](/img/blockchain_qrcode.png)
 
