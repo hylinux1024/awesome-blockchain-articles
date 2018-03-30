@@ -21,21 +21,13 @@ A collection of awesome blockchain articles. Good learning resources about block
 
 
 - [从概念到底层技术，一篇文看懂重塑世界的区块链](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247486406&idx=1&sn=8dd0dbbe53f21461acb2d3088ced683e&chksm=fbe9b209cc9e3b1ff688bbb745ff83335ab033605493d5add44d2defe608b378d887088b7222&scene=27#wechat_redirect)
-
 - [不谈抽象的概念，到底如何从技术角度理解区块链？](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486412&idx=1&sn=09c76bf6b2c8b6c4c24ae6b4a69a42e6&chksm=96c9bdaca1be34ba3feba2b5aaf16e1128fdd50046860c7f9d95483eae294601c8b06f33a8f9&scene=27#wechat_redirect)
-
 - [用两性关系解释区块链：你和前任干的那些事，现任都知道](http://view.inews.qq.com/a/TEC201801160243663M)
-
 - [区块链的12个技术理解误区，你知道有哪些？](http://view.inews.qq.com/a/TEC2018021200321202)
-
 - [老矿工千字终极指南：去中心化、分布式存储、哈希函数加密都是啥](http://view.inews.qq.com/a/20180131A014SV00)
-
 - [什么是智能合约](https://ethfans.org/wikis/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6)
-
 - [关于钱包的基础密码学](https://ethfans.org/aaaaaashu/articles/602)
-
 - [区块链的那些事，你知道和不知道的都在这里！](https://m.aliyun.com/yunqi/articles/361909?utm_content=m_40142) 
-
 - [什么是加密经济学？ 初学者终极指南](https://mp.weixin.qq.com/s/ftFRNtzlhlnYKVsDvdQb7g)
 
 
@@ -52,6 +44,7 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [刚入门区块链的程序员应该看些什么？](https://mp.weixin.qq.com/s/13UNWOe0W7bYUs8Q7piEUA)
 - [如何向弱智程序员解释区块链](https://mp.weixin.qq.com/s/5Av0f8Cm_HU2sW_m1IgHKg)
 - [如何在 5 分钟内读懂区块链的架构思维？](http://mp.weixin.qq.com/s/Gf7ux-4SU1LMN_28drDjxw)
+- [比特币的“区块”中藏有什么秘密：区块链"区块"结构解析](http://mp.weixin.qq.com/s/ZvlW1OXTQU6Dh8iQFf_HmA)
 
 
 ### 不想看文档，那就看看视频吧
@@ -79,6 +72,7 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [区块链常用架构是什么？它和保险业又如何结合？](https://mp.weixin.qq.com/s/mKjEb6TFYzNWexVt9aXCxA)
 - [深度解析区块链架构、跨链和演进](https://mp.weixin.qq.com/s/UZzSUhyxsCGAX8K2A9aTcA)
 - [比特币、以太坊、Fabric…你知道它们的优缺点吗？不懂的进](http://mp.weixin.qq.com/s/u23PW3FGbnJ_3V3oq2Ickg)
+- [如何解决“双花攻击”：比特币的SPV机制](http://mp.weixin.qq.com/s/QCeysL8lYHh-fT9tvuaZJQ)
 
 ### 要学习区块链技术，自己动手写一个吧
 
