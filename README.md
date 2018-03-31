@@ -31,6 +31,19 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [什么是加密经济学？ 初学者终极指南](https://mp.weixin.qq.com/s/ftFRNtzlhlnYKVsDvdQb7g)
 
 
+#### 区块链小知识系列，让你快速了解区块链的相关名词
+
+- [区块链小知识：什么是区块链](https://www.bianews.com/detail?id=10193&type=1)
+- [区块链小知识：区块链具有哪些特性？](https://www.bianews.com/detail?id=10238&type=1)
+- [区块链小知识：不同标准下，区块链的类型划分](http://bianews.com/detail?id=10315&type=1)
+- [区块链小知识：区块链的类型和层级结构](http://mp.weixin.qq.com/s/oo5l88ciG0OC29bDdLiiDA)
+- [区块链小知识：链式结构介绍](http://mp.weixin.qq.com/s/vSRwMI8Y7zEpXCznxfvFfA)
+- [区块链小知识：区块链的定义与特性](http://mp.weixin.qq.com/s/U0BYSwb3vBl3dwpXJUmE-A)
+- [区块链小知识：非对称加密的相关名词介绍](http://mp.weixin.qq.com/s/1pYLBYDDxqgXdKCg5kc0yQ)
+- [区块链小知识：非对称加密的相关名词介绍II](http://mp.weixin.qq.com/s/vdLOEUUhLsCFqP9Zy9iRSg)
+- [区块链小知识：共识机制的相关定义介绍Ⅰ](http://mp.weixin.qq.com/s/m7dwExhR2BvTTCv2mrFhxg)
+- [区块链小知识：共识机制的相关定义介绍Ⅱ](http://mp.weixin.qq.com/s/7zNYMIEiwIEusMl4kHpJdg)
+
 #### 揭秘比特币系列
 
 - [揭秘比特币和区块链（一）：什么是区块链？](http://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486444&amp;idx=1&amp;sn=4d90f461b5ca0d0576a16b15ce10c189&source=41#wechat_redirect)
