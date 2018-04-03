@@ -72,6 +72,9 @@ A collection of awesome blockchain articles. Good learning resources about block
 
 ### 进阶攻略
 
+- [果断收藏！这是全球最权威的区块链行业报告（附中文完整版下载手册）](https://mp.weixin.qq.com/s/myX1_4Z8Z1XFtJ4Q6YDLTg)
+
+
 - [如何成为一名区块链工程师？ | 附学习资源](https://mp.weixin.qq.com/s/_UjgFkC_ins2svFPvduvhw)
 - [深入理解比特币交易的脚本](http://mp.weixin.qq.com/s/tbU9Pg0vQkA7JdKSgNyPAQ)
 - [区块链: 暴富的捷径与程序员的舞台](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247487888&idx=1&sn=931b65213c5f893047ad4edfb60b1a2e&chksm=fbe9a85fcc9e2149db6f60a7f8bbe5fe2326a33a3177c10f98693fc301418ee907544b18f2cc&scene=27#wechat_redirect)
@@ -102,6 +105,7 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [区块链开发实战：如何从零打造一个去中心化应用](https://mp.weixin.qq.com/s/3HVo0UWPRQ_VUteP8WwrTg)
 - [来来来教你仅用15分钟在以太坊编写一个区块链Web应用](https://mp.weixin.qq.com/s/z8RhtH65w4ES7z5U7l1E9g)
 - [CryptoKitties源码详解：手把手教你撸出自己的区块链游戏](http://mp.weixin.qq.com/s/AdrYhQa-m3eh74t1TGwfMg)
+- [一文看懂怎样用 Python 创建比特币交易](https://mp.weixin.qq.com/s/3FTkvhu1k2t9KC_2009hTA)
 
 ### 啧啧，说了这么多，区块链可以赚钱吗？
 
