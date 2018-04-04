@@ -29,6 +29,7 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [关于钱包的基础密码学](https://ethfans.org/aaaaaashu/articles/602)
 - [区块链的那些事，你知道和不知道的都在这里！](https://m.aliyun.com/yunqi/articles/361909?utm_content=m_40142) 
 - [什么是加密经济学？ 初学者终极指南](https://mp.weixin.qq.com/s/ftFRNtzlhlnYKVsDvdQb7g)
+- [一篇文章快速理解区块链技术原理](http://mp.weixin.qq.com/s/5D0PLhRz3NdUZNFgllM2iQ)
 
 
 #### 区块链小知识系列，让你快速了解区块链的相关名词
