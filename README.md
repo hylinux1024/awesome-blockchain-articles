@@ -73,6 +73,7 @@ A collection of awesome blockchain articles. Good learning resources about block
 ### 进阶攻略
 
 - [果断收藏！这是全球最权威的区块链行业报告（附中文完整版下载手册）](https://mp.weixin.qq.com/s/myX1_4Z8Z1XFtJ4Q6YDLTg)
+- [关于区块链，你绝不能忽视的4个安全问题和5招应对方法！](https://mp.weixin.qq.com/s/TAH6uEdctyti5Uwcr-qc0g)
 
 
 - [如何成为一名区块链工程师？ | 附学习资源](https://mp.weixin.qq.com/s/_UjgFkC_ins2svFPvduvhw)
