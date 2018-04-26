@@ -2,6 +2,8 @@
 
 A collection of awesome blockchain articles. Good learning resources about blockchain. 干货集合，入门区块链技术看这里就够了（可加Q群 **680127749**，备注说明加群来源，本文持续更新中...）
 
+手机看这里不方便？还可以使用浏览器访问[http://193.112.37.155:8000/](http://193.112.37.155:8000/)
+
 
 
 ### 入门科普
