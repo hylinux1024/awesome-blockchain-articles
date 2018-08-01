@@ -146,3 +146,5 @@ A collection of awesome blockchain articles. Good learning resources about block
 
 ![技术无眠群](/img/blockchain_qrcode.png)
 
+电报群组 [区块链无眠群](https://t.me/blockchainsleepless)
+
